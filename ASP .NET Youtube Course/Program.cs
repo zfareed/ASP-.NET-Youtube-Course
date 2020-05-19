@@ -6,7 +6,7 @@ namespace ASP_.NET_Youtube_Course
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(" Created new Project");
         }
     }
 }
