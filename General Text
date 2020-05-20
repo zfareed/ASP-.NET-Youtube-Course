@@ -23,3 +23,16 @@ Lesson 4. ASP NET core project file
 Lesson 5. Main method in asp net core
 
          >> completed
+
+
+Lesson 6. ASP .NET Core InProcess Hosting
+
+         >> In InProcess Hosting there is only one web server
+         >> IIS Express is a lightweight, self-contained version of IIS optimized for developers.
+            IIS Express makes it easy to use the most current version of IIS to develop and test
+            websites. IIS Express works well with ASP.NET and PHP applications. Multiple users
+            of IIS Express can work independently on the same computer.
+         >> Kestral
+            > Cross-Platform Web Server for ASP.NET Core
+            > Kestral can be used, by itself as an adge server
+            > The process used to host the app is dotnet.exe
