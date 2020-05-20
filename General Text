@@ -36,3 +36,9 @@ Lesson 6. ASP .NET Core InProcess Hosting
             > Cross-Platform Web Server for ASP.NET Core
             > Kestral can be used, by itself as an adge server
             > The process used to host the app is dotnet.exe
+
+
+Lesson 6. ASP .NET Core OutofProcess Hosting
+
+         >> OutofProcess uses two servers internal and external.
+            > Kersal as internal and IIS, Nginx or Appache as external. 
